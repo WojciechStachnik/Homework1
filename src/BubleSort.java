@@ -1,2 +1,2 @@
-public class BubleSort {
+public interface BubleSort {
 }

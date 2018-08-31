@@ -1,2 +1,2 @@
-public class InsertSort {
+public interface InsertSort {
 }
